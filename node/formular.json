@@ -1,0 +1,40 @@
+{
+    "people": [
+        {
+            "nume": "abc",
+            "prenume": "blablabla",
+            "email": "of",
+            "id": "1"
+        },
+        {
+            "nume": "",
+            "prenume": "",
+            "email": "",
+            "id": "2"
+        },
+        {
+            "nume": "Petrescu",
+            "prenume": "Ana",
+            "email": "anapetrescu011@gmail.com",
+            "id": "4"
+        },
+        {
+            "nume": "Nume",
+            "prenume": "Prenume",
+            "email": "email",
+            "id": "92322670-bd22-11eb-ab89-2d578e0f2b5c"
+        },
+        {
+            "nume": "Popescu",
+            "prenume": "Ionut",
+            "email": "ceva@gmail.com",
+            "id": "76d5af80-bd24-11eb-ab89-2d578e0f2b5c"
+        },
+        {
+            "nume": "Oprea",
+            "prenume": "Mihai",
+            "email": "anapetrescu011@gmail.com",
+            "id": "95daf840-bd24-11eb-ab89-2d578e0f2b5c"
+        }
+    ]
+}
